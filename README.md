@@ -1,0 +1,2 @@
+# NotOrtalamas-HesaplayanProgram
+PatikaDev
